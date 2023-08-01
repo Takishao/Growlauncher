@@ -6,3 +6,7 @@
 # Server
 - [Takishao's Server](https://discord.gg/wB5WjRxfQW)
 - [Powerkuy's Server](https://discord.gg/powerkuyofficial)
+
+# Lua Documentation
+- [Lua 5.4](https://www.lua.org/manual/5.4/manual.html)
+- [Powerkuy API](https://growlauncher.com/growlauncherapi.html)
